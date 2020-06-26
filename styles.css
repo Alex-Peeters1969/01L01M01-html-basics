@@ -1,0 +1,46 @@
+Body,header,nav,h2,ul, main,footer,h3 { 
+    background-color: darkgray;
+    color: yellow;
+} 
+    header{ 
+         border: 2px solid black;
+         font-size: 024px;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+         line-height: 4em;
+         text-align: center;
+         background-image:url("IMG-20200418-WA0002.jpg");
+         background-position: 800px 600px
+    }  
+     h2 {
+        background-color: green;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 
+        serif;
+     }    
+     ul{
+        border: 2px solid black;
+        background-image:url("IMG-20200613-WA0000.jpg");
+        background-position: 800px 600px;
+     }   
+     
+      
+     }
+     Main{
+         line-height: 3.5em;
+         background-image:url("IMG-20200613-WA0000.jpg");
+         background-position: 800px 600px;
+     }
+    
+    .box-1{
+        background-color: black;
+        color: white;
+        box-sizing:8em;
+        text-align: center;
+    }
+    .container{
+        width: 80%;
+        margin: auto;
+    }
+    
+    
+
+    
